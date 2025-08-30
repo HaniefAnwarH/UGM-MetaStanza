@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Data Science</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Introduction to Data Science</h1>
+    </header>
+    <main>
+      <script type="module" src="https://togostanza.github.io/metastanza-devel/piechart.js" async></script>
+
+      <togostanza-piechart
+        data-url="http://127.0.0.1:3000/effect_piechart.json"
+        data-type="json"
+        data-value_key="count"
+        data-category_key="category"
+        color-key="color"
+        group-key="group"
+        legend-visible
+        legend-title="Population"
+        tooltip="{{#if url}}&lt;a href&#x3D;{{url}}&gt;{{count}}&lt;/a&gt;{{else}}&lt;span&gt;{{count}}&lt;/span&gt;{{/if}}"
+        event-incoming_change_selected_nodes
+        event-outgoing_change_selected_nodes
+      ></togostanza-piechart>
+
+      
+
+      <h1>Layerd Graph</h1>
+        <a href="http://127.0.0.1:3000/index_layered_graph.html" target="_blank">Open Layered Graph</a>
+
+    </main>    
+</body>
+</html>
