@@ -1,0 +1,212 @@
+[
+  {
+    "group": "3",
+    "variable": "ARID1A",
+    "value": 0.6238
+  },
+  {
+    "group": "3",
+    "variable": "PTCH2",
+    "value": 0.1004
+  },
+  {
+    "group": "3",
+    "variable": "MSH6",
+    "value": 0.3295
+  },
+  {
+    "group": "3",
+    "variable": "IDH1",
+    "value": 0.9805
+  },
+  {
+    "group": "3",
+    "variable": "D2HGDH",
+    "value": 0.0734
+  },
+  {
+    "group": "3",
+    "variable": "CTNNB1",
+    "value": 0.9984
+  },
+  {
+    "group": "3",
+    "variable": "FGFR3",
+    "value": 0.9983
+  },
+  {
+    "group": "3",
+    "variable": "HTT",
+    "value": 0.0772
+  },
+  {
+    "group": "3",
+    "variable": "PDGFRA",
+    "value": 0.0592
+  },
+  {
+    "group": "3",
+    "variable": "MCC",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "BRPF3",
+    "value": 0.0618
+  },
+  {
+    "group": "3",
+    "variable": "ARID1B",
+    "value": 0.488
+  },
+  {
+    "group": "3",
+    "variable": "MET",
+    "value": 0.0759
+  },
+  {
+    "group": "3",
+    "variable": "SMO",
+    "value": 0.9897
+  },
+  {
+    "group": "3",
+    "variable": "MYC",
+    "value": 0.0717
+  },
+  {
+    "group": "3",
+    "variable": "LURAP1L",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "NTRK2",
+    "value": 0.1145
+  },
+  {
+    "group": "3",
+    "variable": "PTCH1",
+    "value": 0.1274
+  },
+  {
+    "group": "3",
+    "variable": "KLF4",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "TSC1",
+    "value": 0.1309
+  },
+  {
+    "group": "3",
+    "variable": "NOTCH1",
+    "value": 0.2977
+  },
+  {
+    "group": "3",
+    "variable": "FGFR2",
+    "value": 0.4708
+  },
+  {
+    "group": "3",
+    "variable": "ZFTA",
+    "value": 0.1217
+  },
+  {
+    "group": "3",
+    "variable": "KMT2D",
+    "value": 0.7303
+  },
+  {
+    "group": "3",
+    "variable": "SMARCD1",
+    "value": 0.3929
+  },
+  {
+    "group": "3",
+    "variable": "PHLDA1",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "ATXN2",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "HNF1A",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "BRCA2",
+    "value": 0.0626
+  },
+  {
+    "group": "3",
+    "variable": "RB1",
+    "value": 0.0768
+  },
+  {
+    "group": "3",
+    "variable": "DICER1",
+    "value": 0.1116
+  },
+  {
+    "group": "3",
+    "variable": "TSC2",
+    "value": 0.0794
+  },
+  {
+    "group": "3",
+    "variable": "CREBBP",
+    "value": 0.3997
+  },
+  {
+    "group": "3",
+    "variable": "GSE1",
+    "value": 0.5
+  },
+  {
+    "group": "3",
+    "variable": "TP53",
+    "value": 0.0724
+  },
+  {
+    "group": "3",
+    "variable": "NF1",
+    "value": 0.1112
+  },
+  {
+    "group": "3",
+    "variable": "PPM1D",
+    "value": 0.9929
+  },
+  {
+    "group": "3",
+    "variable": "SMARCA4",
+    "value": 0.077
+  },
+  {
+    "group": "3",
+    "variable": "NOTCH3",
+    "value": 0.1792
+  },
+  {
+    "group": "3",
+    "variable": "LZTR1",
+    "value": 0.4107
+  },
+  {
+    "group": "3",
+    "variable": "DDX3X",
+    "value": 0.5753
+  },
+  {
+    "group": "3",
+    "variable": "ATRX",
+    "value": 0.273
+  }
+]
